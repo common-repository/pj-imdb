@@ -1,0 +1,85 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PJ IMDB\n"
+"POT-Creation-Date: 2017-01-01 22:41+0330\n"
+"PO-Revision-Date: 2017-01-01 22:41+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: pj-imdb.php\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: pj-imdb.php:41 pj-imdb.php:47
+msgid "Fetch info from IMDB"
+msgstr "Récupérer les informations de IMDB"
+
+#: pj-imdb.php:50 pj-imdb.php:62 process.php:15
+msgid "Title"
+msgstr "Titre"
+
+#: pj-imdb.php:51 pj-imdb.php:63 process.php:16
+msgid "Year"
+msgstr "An"
+
+#: pj-imdb.php:52
+msgid "IMDB ID"
+msgstr "IMDB ID"
+
+#: pj-imdb.php:64 process.php:17
+msgid "Runtime"
+msgstr "Temps"
+
+#: pj-imdb.php:65 process.php:18
+msgid "Genre"
+msgstr "Genre"
+
+#: pj-imdb.php:66 process.php:19
+msgid "Director"
+msgstr "Directeur"
+
+#: pj-imdb.php:67 process.php:20
+msgid "Actors"
+msgstr "Acteurs"
+
+#: pj-imdb.php:68 process.php:21
+msgid "Country"
+msgstr "Pays"
+
+#: pj-imdb.php:69 process.php:22
+msgid "Rating"
+msgstr "Évaluation"
+
+#: process.php:38
+msgid "Check inputs! Something is wrong"
+msgstr "Vérifier les entrées! quelque chose ne va pas"
+
+#. Plugin Name of the plugin/theme
+msgid "PJ IMDB"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://pamjad.me/pj-imdb/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "fetch the information of the movies from IMDB databse"
+msgstr "Récupérer les informations des films de la base de données imdb"
+
+#. Author of the plugin/theme
+msgid "Pouriya Amjadzadeh"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://pamjad.me"
+msgstr ""

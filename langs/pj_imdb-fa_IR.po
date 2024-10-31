@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PJ IMDB\n"
+"POT-Creation-Date: 2019-07-22 11:15+0430\n"
+"PO-Revision-Date: 2019-07-22 11:15+0430\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: pj-imdb.php\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: pj-imdb.php:27 pj-imdb.php:44
+msgid "Fetch info from IMDB"
+msgstr "دریافت اطلاعات از IMDB"
+
+#: pj-imdb.php:47
+msgid "Title / IMDB ID"
+msgstr "عنوان / شناسه"
+
+#: pj-imdb.php:48 pj-imdb.php:78
+msgid "Year"
+msgstr "سال"
+
+#: pj-imdb.php:66
+msgid "ID"
+msgstr "شناسه"
+
+#: pj-imdb.php:70
+msgid "Type"
+msgstr "نوع"
+
+#: pj-imdb.php:74
+msgid "Title"
+msgstr "عنوان"
+
+#: pj-imdb.php:83
+msgid "Runtime"
+msgstr "مدت زمان"
+
+#: pj-imdb.php:87
+msgid "Genre"
+msgstr "ژانر"
+
+#: pj-imdb.php:91
+msgid "Author"
+msgstr "نویسنده"
+
+#: pj-imdb.php:95
+msgid "Actors"
+msgstr "بازیگران"
+
+#: pj-imdb.php:99
+msgid "Rated"
+msgstr "رده سنی"
+
+#: pj-imdb.php:103
+msgid "Rating"
+msgstr "امتیاز"
+
+#: pj-imdb.php:107
+msgid "IMDB Url"
+msgstr "نشانی IMDB"
+
+#: pj-imdb.php:115
+msgid "Failed fetch..."
+msgstr "دریافت ناموفق…"
+
+#. Plugin Name of the plugin/theme
+msgid "PJ IMDB"
+msgstr "‏PJ IMDB"
+
+#. Plugin URI of the plugin/theme
+msgid "http://pamjad.me/pj-imdb/"
+msgstr "‏http://pamjad.me/pj-imdb/"
+
+#. Description of the plugin/theme
+msgid "fetch the information of the movies from IMDB databse"
+msgstr "دریافت اطلاعات فیلم ها از دیتابیس IMDB"
+
+#. Author of the plugin/theme
+msgid "Pouriya Amjadzadeh"
+msgstr "پوریا امجدزاده"
+
+#. Author URI of the plugin/theme
+msgid "http://pamjad.me"
+msgstr "‏http://pamjad.me"
+
+#~ msgid "Check inputs! Something is wrong"
+#~ msgstr "ورودی ها را بررسی کنید! یک چیزی اشتباه است"
+
+#~ msgid "Director"
+#~ msgstr "کارگردان"
+
+#~ msgid "Country"
+#~ msgstr "کشور"
+
+#~ msgid "IMDB ID"
+#~ msgstr "شناسه IMDB"
+
+#~ msgid "Check your IMDB ID!"
+#~ msgstr "شناسه IMDB را بررسی کنید!"

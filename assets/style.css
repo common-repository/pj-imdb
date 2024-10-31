@@ -1,0 +1,26 @@
+#pj-imdb.postbox{border:none;padding:0;-webkit-box-shadow:none;box-shadow:none;background:transparent;overflow:hidden;}
+#pj-imdb.postbox .handlediv,#pj-imdb.postbox > h2{display:none}
+#pj-imdb.postbox .inside{padding:0!important;margin:0}
+.imdb-box ::selection{color:#333;background-color:#f1cc0f}
+.imdb-box{color:#fff;overflow:hidden;border-radius:3px;-webkit-box-shadow:0 1px 1px rgba(0,0,0,.04);box-shadow:0 1px 1px rgba(0,0,0,.04);background-color:#303030}
+.imdb-box > .head{height:55px;margin:0;padding:0 15px;font-size:16px;font-weight:400;line-height:55px;background-color:#2D2D2D;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}
+.imdb-box > .head > .logo{float:right;width:43px;height:45px;margin-top:4px;background:url(logo.png) no-repeat center center}
+.imdb-box > .search{height:30px;margin:0;padding:0;display:block;position:relative;background-color:rgba(255,255,255,0.05)}
+.imdb-box > .search > div{float:left;width:calc(100% - 50px)}
+.imdb-box > .search > div > input{float:left;color:#fff;height:30px;margin:0!important;border:none!important;outline:none!important;padding:0 15px;-webkit-box-shadow:none!important;box-shadow:none!important;background-color:transparent!important}
+.imdb-box > .search > div > [name="query"]{width:60%;}
+.imdb-box > .search > div > [name="year"]{width:40%;}
+.imdb-box > .search > #sendAjax{float:right;color:#fff;width:50px;height:30px;cursor:pointer;line-height:3;text-align:center;background:#f1cc0f;border:none;-webkit-box-shadow:none;box-shadow:none;}
+.imdb-box > .search > #sendAjax > img{margin:0;padding:0;border:0}
+.imdb-box > #result{display:none;overflow:hidden;padding:15px;}
+.imdb-box > #result > img{width:250px;height:auto;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}
+.imdb-box > #result > ul{padding:0;margin:0;font-size:13px;font-weight:300;line-height:25px;list-style:none}
+.imdb-box > #result > ul > li{padding-top:10px}
+.imdb-box > #result > ul > li > span{color:#888;width:100%;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;display:block;line-height:15px;}
+.imdb-box > #result > ul > li > input,.imdb-box > #result > ul > li > textarea{padding:0;width:100%;height:25px;border:none;margin:auto;direction:ltr;-webkit-box-shadow:none;box-shadow:none;text-align:left;padding-bottom:10px;background:transparent;color:rgba(255,255,255,0.6);border-bottom:1px solid rgba(0,0,0,.1)}
+.imdb-box > #result > ul > li > textarea{height:70px;padding:10px 0;line-height:16px;}
+.imdb-box > #result > ul > li:last-child > input{padding-bottom:0;border-bottom:0;}
+.imdb-box .error{color:#fff;margin:0;padding:0 20px;line-height:30px;text-align:center;background-color:#dd4b39;margin:-15px;}
+body.rtl .imdb-box > .head > .logo,body.rtl .imdb-box > .search > #sendAjax{float:left}
+body.rtl .imdb-box > .search > div,body.rtl .imdb-box > .search > div > input{float:right}
+body.rtl .imdb-box > .search > div > input{font-size:13px}
